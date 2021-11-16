@@ -1,0 +1,54 @@
+<!-- comments_page.html -->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="comments_page.css">
+    </head>
+    <!-- body -->
+    <body>
+        <!--<script></script>-->
+        <nav class="navbar navbar-dark bg-dark">
+            <a class="navbar-brand" href="feed_page.html">
+                <b id="logo">Fi</b>
+                flickit
+            </a>
+        </nav>
+        <div class="container">
+            <img src="rsc/bacon.jpeg" id="main_image" class="image">
+            <div class="middle">
+                <div id="like_button_container"></div>
+            </div>
+        </div>
+        <h1>Comments</h1>
+        <!-- Just did five dummy comments for now -->
+        <div class="comment">
+            <h2>Jack<img src="rsc/free.jpeg"></h2>
+            <p>This is a comment</p>
+        </div>
+        <div class="comment">
+            <h2>Luke<img src="rsc/free.jpeg"></h2>
+            <p>This is a comment</p>
+        </div>
+        <div class="comment">
+            <h2>Mark<img src="rsc/free.jpeg"></h2>
+            <p>This is a comment</p>
+        </div>
+        <div class="comment">
+            <h2>Jessie<img src="rsc/free.jpeg"></h2>
+            <p>This is a comment</p>
+        </div>
+        <div class="comment">
+            <h2>Alyssa<img src="rsc/free.jpeg"></h2>
+            <p>This is a comment</p>
+        </div>
+
+        <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+        <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+        <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+
+        <!-- Load our React component. -->
+        <script src="like_button.js"></script>
+    </body>
+</html>

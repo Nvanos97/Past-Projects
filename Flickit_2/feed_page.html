@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="flickit.css">
+    <title>Feed</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-dark bg-dark">
+      <a class="navbar-brand" href="#">
+        <b id="logo">Fi</b>
+        flickit
+      </a>
+    </nav>
+    
+    <div class="form-group">
+      <input id="searchFlickr" class="form-control form-control-lg" type="text"  placeholder="&#128269 Flowers, Beaches, Cars, (etc..)"/>
+      <div id="searchButton">
+        <button class="btn btn-info" onclick="JavaScriptFetch()">Get Images!</button>
+      </div>
+    </div>
+    <div id="searchResults"></div>
+    <script src="flickrAPI.js"></script>
+  </body>
+</html>

@@ -1,0 +1,44 @@
+
+                                                  ZAGOPOLY
+                                                  ***********
+$$$ A Gonzaga themed spin off of the popular board game by Hasbro “Monopoly” $$$
+
+OBJECT: The object of the game is to be the first player to earn 5000 dollars through buying, renting and selling
+property. You may also win if you are the only player remaining.
+
+THE PLAY:
+Each player starts on the space marked “Go”. At the beginning of each players turn, the player rolls the two dice
+and then advances the number of spaces indicated by the dice. After you have completed your play,
+the turn passes to the next player. The tokens remain on the spaces occupied and proceed from that point on the player’
+next turn. Two or more tokens may rest on the same space at the same time. According to the space your token reaches,
+you may be entitled to buy real estate or other properties — or obliged to pay rent, pay taxes,
+draw a Chance or Community Chest card, “Go to Jail” etc.
+If you throw doubles, you move your token as usual, the sum of the two dice, and are subject to any privileges or
+penalties pertaining to the space on which you land. Retaining the dice, throw again and move your token as before.
+Each time a player’s token lands on or passes over the GO space, whether by throwing the dice or drawing a card,
+the player earns 200 dollars
+
+MONEY:
+Each person begins with 1500 Dollars and can use that money to pay rent, buy properties, buy houses etc.
+If a player runs out of money they are eliminated from the game
+
+BUYING PROPERTY:
+Whenever you land on an unowned property you may buy that property from at its printed price. You receive the Title Deed
+card showing ownership; place it face up in front of you.When you land on property owned by another player, the owner
+collects rent from you in accordance with the listed price printed on its Title Deed card.
+Once a player owns a property they may purchase houses on the space that increase the rent another player must pay if
+they land on that space. Once a player builds four houses on a space they can build a hotel which greatly increases the
+rent of that property
+All the information about pricing and rent costs of each property is listed on the property itself
+If a player is eliminated all their properties, hotels, and houses are relinquished and must be purchased again
+Players can trade properties with each other in exchange for other properties or money
+
+
+“CHANCE” AND “COMMUNITY CHEST":
+When you land on either of these spaces, take the top card from the deck indicated,
+follow the instructions and return the card face down to the bottom of the deck.
+
+“CAMPO":
+You get picked up by campo when your token lands on the campus security space and must remain there until
+the player pays 50 dollars, uses a get out of jail free card, or rolls doubles. If the player attempts to roll doubles
+and fails they may not pay the 50 dollars to escape.

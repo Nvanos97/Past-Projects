@@ -1,0 +1,81 @@
+/*
+flickit.css
+Programmers: Nathan Vanos, Mason Dellutri, Joshua Go
+*/
+
+#searchFlickr {
+    width: 75vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#searchButton {
+    text-align: center;
+    padding-top: 1vh;
+}
+
+#logo {
+    margin-right: 2vw;
+}
+
+#searchResults {
+    text-align: center;
+}
+
+.form-group {
+    padding-top: 5vh;
+}
+
+.row {
+    margin: 0;
+}
+  
+.row a img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+} 
+
+@media (max-width: 575.98px) { 
+    .row a img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: cover;
+        width: 250px;
+        height: 250px;
+    }   
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .row a img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: cover;
+        width: 400px;
+        height: 400px;
+    } 
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .row a img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: cover;
+        width: 150px;
+        height: 150px;
+    } 
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .row a img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: cover;
+        width: 150px;
+        height: 150px;
+    } 
+}
